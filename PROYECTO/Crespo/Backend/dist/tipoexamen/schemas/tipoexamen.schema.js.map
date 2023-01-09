@@ -1,0 +1,1 @@
+{"version":3,"file":"tipoexamen.schema.js","sourceRoot":"","sources":["../../../src/tipoexamen/schemas/tipoexamen.schema.ts"],"names":[],"mappings":";;;AAAA,uCAAkC;AAErB,QAAA,aAAa,GAAG,IAAI,iBAAM,CAAC;IACtC,WAAW,EAAE,EAAE,IAAI,EAAE,MAAM,EAAE,OAAO,EAAE,IAAI,EAAE;IAE5C,YAAY,EAAE,EAAE,IAAI,EAAE,MAAM,EAAE,OAAO,EAAE,IAAI,EAAE;CAC9C,CAAC,CAAC"}
